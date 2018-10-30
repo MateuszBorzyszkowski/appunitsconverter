@@ -1,4 +1,4 @@
-##UNITS CONVERTER
+# UNITS CONVERTER
 ![design](docs/firstImage.png "Home page")
 ![design](docs/secondImage.png "Second page")
 
